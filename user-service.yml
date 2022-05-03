@@ -1,8 +1,8 @@
 datasource:
-    driver-class-name: org.h2.Driver
-    url: jdbc:h2:mem:testdb
-    username: sa
-    password: {cipher}'7a5ad7b59fb581f94a00959bf7d34d3e3d286fc637f31f722fd1c1aae2775833'
+  driver-class-name: org.h2.Driver
+  url: jdbc:h2:mem:testdb
+  username: sa
+  password: {cipher}'7a5ad7b59fb581f94a00959bf7d34d3e3d286fc637f31f722fd1c1aae2775833'
 
 token:
   expiration_time: 86400000
